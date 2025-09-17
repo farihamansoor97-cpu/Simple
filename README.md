@@ -7,7 +7,12 @@ It is one of my first Python practice programs.
 ## 💻 Code Example
 ```python
 name = input("Enter your name: ")
-print("Assalamualaikum, I am", name, "and this is my third Python program.")
+day = "Friday,"
+date = "12th September 2025"
+program = "Python Programming"
+greeting = "Have a nice day!"
+
+print(f"Assalamualaikum! {name}, today is {day} {date}. Welcome to {program}. {greeting}")
 ```
 
 ▶️ How to Run
@@ -33,7 +38,7 @@ python simple.py
 📌 Example Output
 
 Enter your name: Fariha
-Assalamualaikum, I am Fariha and this is my third Python program.
+Assalamualaikum! Fariha, today is Friday, 12th September 2025. Welcome to Python Programming. Have a nice day!
 
 👩‍💻 Author
 
