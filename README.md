@@ -38,6 +38,7 @@ python simple.py
 📌 Example Output
 
 Enter your name: Fariha
+
 Assalamualaikum! Fariha, today is Friday, 12th September 2025. Welcome to Python Programming. Have a nice day!
 
 👩‍💻 Author
